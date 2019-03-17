@@ -1,0 +1,6 @@
+export const GET_POSTS = 'GET_POSTS'
+export const GET_POST = 'GET_POST'
+export const GET_FIRST_POST = 'GET_FIRST_POSTS'
+export const GET_LAST_POST = 'GET_LAST_POSTS'
+export const ADD_POST = 'ADD_POST'
+export const REMOVE_POST = 'REMOVE_POST'
